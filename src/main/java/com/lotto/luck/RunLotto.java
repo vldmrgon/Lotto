@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.StringJoiner;
 
-public class Run {
+public class RunLotto {
 
     private static int NUMBER_PARTICIPANTS = 2_000_000;
     private static int NUMBER_LOTTERIES = 1;
